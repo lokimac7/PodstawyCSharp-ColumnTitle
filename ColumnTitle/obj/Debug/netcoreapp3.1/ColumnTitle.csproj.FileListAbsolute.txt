@@ -1,0 +1,13 @@
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\bin\Debug\netcoreapp3.1\ColumnTitle.exe
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\bin\Debug\netcoreapp3.1\ColumnTitle.deps.json
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\bin\Debug\netcoreapp3.1\ColumnTitle.runtimeconfig.json
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\bin\Debug\netcoreapp3.1\ColumnTitle.runtimeconfig.dev.json
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\bin\Debug\netcoreapp3.1\ColumnTitle.dll
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\bin\Debug\netcoreapp3.1\ColumnTitle.pdb
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.csprojAssemblyReference.cache
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.AssemblyInfoInputs.cache
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.AssemblyInfo.cs
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.csproj.CoreCompileInputs.cache
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.dll
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.pdb
+D:\Kamizelich\6. Nr kolumny z excela\ColumnTitle\ColumnTitle\obj\Debug\netcoreapp3.1\ColumnTitle.genruntimeconfig.cache
